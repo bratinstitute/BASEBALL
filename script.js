@@ -89,5 +89,5 @@ function changeView() {
 
 // Initial render with default view
 document.addEventListener('DOMContentLoaded', () => {
-    renderRoster('grid'); // Set default view to 'grid'
+    renderRoster('list');
 });
