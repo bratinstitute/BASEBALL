@@ -89,5 +89,6 @@ function changeView() {
 
 // Initial render with default view
 document.addEventListener('DOMContentLoaded', () => {
-    renderRoster('list');
+    document.getElementById('viewSelect').value = 'list'; // Set dropdown to List View by default
+    renderRoster('list'); // Set default view to 'list'
 });
