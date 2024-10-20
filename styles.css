@@ -105,10 +105,10 @@ tbody tr:last-child td {
 
 /* Player images in Cards View */
 .player-img-card {
-    width: 100px;
-    height: 100px;
+    width: 280px;
+    height: 280px;
     object-fit: cover;
-    border-radius: 50%;
+    /* border-radius: 50%; */
     margin-bottom: 1rem;
 }
 
@@ -126,7 +126,7 @@ tbody tr:last-child td {
     padding: 1rem;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
     text-align: center;
-    width: 200px;
+    width: 320px;
 }
 
 /* Make table responsive on smaller screens */

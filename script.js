@@ -4,7 +4,7 @@ function renderRoster(view) {
     rosterSection.innerHTML = ''; // Clear the section before rendering
 
     if (view === 'list') {
-        // Render as List View (without headers)
+        // List View
         let table = '<table>';
         table += '<tbody>'; // No <thead> for list view
         players.forEach(player => {
@@ -28,7 +28,7 @@ function renderRoster(view) {
         table += '</tbody></table>';
         rosterSection.innerHTML = table;
     } else if (view === 'grid') {
-        // Render as Table (Grid View with headers)
+        // Grid View
         rosterSection.className = 'grid-view';
         let table = `
             <table>
@@ -63,19 +63,17 @@ function renderRoster(view) {
         table += '</tbody></table>';
         rosterSection.innerHTML = table;
     } else if (view === 'cards') {
-        // Render as Cards View with images
+        // Cards View
         rosterSection.className = 'cards-view';
         players.forEach(player => {
             rosterSection.innerHTML += `
                 <div class="player-card">
                     <img src="${player.image}" alt="${player.name}" class="player-img-card">
-                    <p><strong>${player.name}</strong> - #${player.no}</p>
-                    <p>Position: ${player.pos}</p>
-                    <p>Year: ${player.year}</p>
-                    <p>Height: ${player.ht}</p>
-                    <p>Weight: ${player.wt}</p>
-                    <p>Hometown: ${player.hometown}</p>
-                    <p>B/T: ${player.bt}</p>
+                    <p>#${player.no}</p>
+                    <h2><strong>${player.name}</strong></h2>
+                    <p>${player.pos}</p>
+                    <p>${player.ht} / ${player.wt} / ${player.year} / ${player.bt}</p>
+                    <p>${player.hometown} / ${player.school}</p>
                 </div>`;
         });
     }
