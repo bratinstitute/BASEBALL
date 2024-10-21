@@ -21,6 +21,19 @@ header {
     padding: 1rem;
 }
 
+.menu a {
+    margin-right: 20px; /* Adds 20px of space between the items */
+}
+
+.menu a:last-child {
+    margin-right: 0; /* Removes extra margin after the last image */
+}
+
+.menu {
+    display: flex; /* Ensures that the images stay on the same line */
+    align-items: center; /* Vertically aligns the items if needed */
+}
+
 .secondary-header {
     display: flex;
     justify-content: space-between;
