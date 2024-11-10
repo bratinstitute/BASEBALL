@@ -21,7 +21,7 @@ const players = [
         bioLink: 'http://bratinstitute.com'},
     { no: 11, name: "Khal Valdez", pos: "RHP", year: "Sophomore", ht: "6'1\"", wt: "180 lbs", hometown: "Naples, Fla.", school: "Gulf Coast HS", bt: "R/R", image: "images/11 Khal Valdez.jpg",
         bioLink: 'http://bratinstitute.com'},
-    { no: 12, name: "Reese Witherspoon", pos: "RHP", year: "Sophomore", ht: "6'1\"", wt: "195 lbs", hometown: "San Antonio, Texas", school: "Warren HS", bt: "R/R", image: "images/12 Reese Witherspoon.jpg",
+    { no: 13, name: "Reese Witherspoon", pos: "RHP", year: "Sophomore", ht: "6'1\"", wt: "195 lbs", hometown: "San Antonio, Texas", school: "Warren HS", bt: "R/R", image: "images/12 Reese Witherspoon.jpg",
         bioLink: 'http://bratinstitute.com'},
     { no: 14, name: "RJ Zimbardo", pos: "C", year: "Freshman", ht: "5'10\"", wt: "180 lbs", hometown: "Fresno, Calif.", school: "Fresno HS", bt: "R/R", image: "images/14 RJ Zimbardo.jpg",
         bioLink: 'http://bratinstitute.com'},
