@@ -87,7 +87,7 @@ const players = [
         bioLink: 'http://bratinstitute.com'},
     { no: 45, name: "Elmo Stich", pos: "INF", year: "Sophomore", ht: "6'0\"", wt: "0 lbs", hometown: "Waianae, Hawai'i", school: "Maryknoll HS", bt: "R/R", image: "images/45 Elmo Stich.jpg",
         bioLink: 'http://bratinstitute.com'},
-    { no: 47, name: "Reed Clonne", pos: "OF", year: "Sophomore", ht: "5'9\"", wt: "0 lbs", hometown: "Providence, Ky.", school: "Webster County HS", bt: "L/R", image: "images/47 Reed Clonne.jpg",
+    { no: 47, name: "Reed Clonne", pos: "OF", year: "Sophomore", ht: "5'9\"", wt: "0 lbs", hometown: "Providence, Ky.", school: "Webster County HS", bt: "L/R", image: "images/47 Reed Clonne.png",
         bioLink: 'http://bratinstitute.com'},
     { no: 48, name: "Mony Coblas", pos: "RHP", year: "Junior", ht: "5'8\"", wt: "0 lbs", hometown: "Detroit, Mich.", school: "Central HS", bt: "R/R", image: "images/48 Mony Coblas.jpg",
         bioLink: 'http://bratinstitute.com'},
