@@ -13,7 +13,7 @@ function renderRoster(view) {
                     <td><img src="${player.image}" alt="${player.name}" class="player-img"></td>
                     <td>
                         <div class="player-left">
-                            <p class="player-details-small">${player.pos} | ${player.ht} | ${player.wt} | ${player.bt}</p>
+                            <p class="player-details-small">${player.pos} | ${player.ht} | ${player.bt}</p>
                             <p class="player-name">${player.name}</p>  <!-- Updated class here -->
                         </div>
                     </td>
@@ -39,7 +39,6 @@ function renderRoster(view) {
                         <th>POS.</th>
                         <th>YEAR</th>
                         <th>HT.</th>
-                        <th>WT.</th>
                         <th>HOMETOWN</th>
                         <th>HIGH SCHOOL/PREVIOUS SCHOOL</th>
                         <th>B/T</th>
@@ -54,7 +53,6 @@ function renderRoster(view) {
                     <td>${player.pos}</td>
                     <td>${player.year}</td>
                     <td>${player.ht}</td>
-                    <td>${player.wt}</td>
                     <td>${player.hometown}</td>
                     <td>${player.school}</td>
                     <td>${player.bt}</td>
@@ -72,7 +70,7 @@ function renderRoster(view) {
                     <p>#${player.no}</p>
                     <h2><strong>${player.name}</strong></h2>
                     <p>${player.pos}</p>
-                    <p>${player.ht} / ${player.wt} / ${player.year} / ${player.bt}</p>
+                    <p>${player.ht} / ${player.year} / ${player.bt}</p>
                     <p>${player.hometown} / ${player.school}</p>
                 </div>`;
         });
