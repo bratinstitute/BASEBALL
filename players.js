@@ -83,6 +83,10 @@ const players = [
         bioLink: 'http://bratinstitute.com'},
     { no: 43, name: "Brent Tracer", pos: "RHP", year: "Senior", ht: "0'0\"", wt: "0 lbs", hometown: "City, State", school: "High School HS", bt: "R/R", image: "images/43 Brent Tracer.jpg",
         bioLink: 'http://bratinstitute.com'},
+    { no: 44, name: "Donnisa Chilsick", pos: "LHP", year: "Junior", ht: "0'0\"", wt: "0 lbs", hometown: "City, State", school: "High School HS", bt: "L/L", image: "images/44 Donnisa Chilsick.jpg",
+        bioLink: 'http://bratinstitute.com'},
     { no: 45, name: "Elmo Stich", pos: "INF", year: "Sophomore", ht: "0'0\"", wt: "0 lbs", hometown: "City, State", school: "High School HS", bt: "R/R", image: "images/45 Elmo Stich.jpg",
+        bioLink: 'http://bratinstitute.com'},
+    { no: 47, name: "Reed Clonne", pos: "OF", year: "Sophomore", ht: "0'0\"", wt: "0 lbs", hometown: "City, State", school: "High School HS", bt: "L/R", image: "images/47 Reed Clonne.jpg",
         bioLink: 'http://bratinstitute.com'},
 ];
