@@ -119,7 +119,7 @@ const players = [
         bioLink: 'http://bratinstitute.com'},
     { no: 71, name: "Luffin Grikintz", pos: "OF", year: "Senior", ht: "6'1\"", wt: "0 lbs", hometown: "San Jose, Calif.", school: "Leland HS", bt: "L/L", image: "images/71 Luffin Grikintz.jpg",
         bioLink: 'http://bratinstitute.com'},
-    { no: 75, name: "Lexy Adnhea", pos: "OF", year: "Sophomore", ht: "5'10\"", wt: "0 lbs", hometown: "San Antonio, Texas", school: "Sandra Day O'Connor HS", bt: "R/R", image: "images/75 Lexy Adnhea.jpg",
+    { no: 75, name: "Lexy Adnhea", pos: "OF", year: "Sophomore", ht: "5'10\"", wt: "0 lbs", hometown: "San Antonio, Texas", school: "Sandra Day O'Connor HS", bt: "R/R", image: "images/75 Lexy Adnhea.png",
         bioLink: 'http://bratinstitute.com'},
     { no: 77, name: "Coin Klank", pos: "LHP", year: "Junior", ht: "6'2\"", wt: "0 lbs", hometown: "Reno, Nev.", school: "Reno HS", bt: "L/L", image: "images/77 Coin Klank.jpg",
         bioLink: 'http://bratinstitute.com'},
