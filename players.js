@@ -7,7 +7,7 @@ const players = [
         bioLink: 'http://bratinstitute.com'},
     { no: 4, name: "Bryce Ready", pos: "INF", year: "Freshman", ht: "6'2\"", wt: "220 lbs", hometown: "Murrysville, Pa.", school: "Franklin Regional HS", bt: "R/R", image: "images/4 Bryce Ready.png",
         bioLink: 'http://bratinstitute.com'},
-    { no: 5, name: "KJ DeBarge", pos: "INF", year: "Junior", ht: "6'3\"", wt: "190 lbs", hometown: "Potomac, Md.", school: "Bullis HS", bt: "R/R", image: "images/5 KJ DeBarge.jpg",
+    { no: 5, name: "KJ DeBarge", pos: "INF", year: "Junior", ht: "6'3\"", wt: "190 lbs", hometown: "Potomac, Md.", school: "Bullis HS", bt: "R/R", image: "images/5 KJ DeBarge.png",
         bioLink: 'http://bratinstitute.com'},
     { no: 6, name: "Tanner Swain", pos: "INF", year: "Sophomore", ht: "6'5\"", wt: "240 lbs", hometown: "Syracuse, N.Y.", school: "Cicero-North Syracuse HS", bt: "R/R", image: "images/6 Tanner Swain.png",
         bioLink: 'http://bratinstitute.com'},
