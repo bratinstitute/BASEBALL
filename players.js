@@ -17,7 +17,7 @@ const players = [
         bioLink: 'http://bratinstitute.com'},
     { no: 9, name: "Walker Mendez", pos: "INF", year: "Sophomore", ht: "6'3\"", wt: "205 lbs", hometown: "Wayne, N.J.", school: "Wayne Hills HS", bt: "L/R", image: "images/9 Walker Mendez.png",
         bioLink: 'http://bratinstitute.com'},
-    { no: 10, name: "Clyde Babee", pos: "RHP", year: "Freshman", ht: "5'11\"", wt: "0 lbs", hometown: "Houston, Texas", school: "Cy Ranch HS", bt: "R/R", image: "images/10 Clyde Babee.jpg",
+    { no: 10, name: "Clyde Babee", pos: "RHP", year: "Freshman", ht: "5'11\"", wt: "0 lbs", hometown: "Houston, Texas", school: "Cy Ranch HS", bt: "R/R", image: "images/10 Clyde Babee.png",
         bioLink: 'http://bratinstitute.com'},
     { no: 11, name: "Khal Valdez", pos: "RHP", year: "Sophomore", ht: "6'1\"", wt: "180 lbs", hometown: "Naples, Fla.", school: "Gulf Coast HS", bt: "R/R", image: "images/11 Khal Valdez.png",
         bioLink: 'http://bratinstitute.com'},
