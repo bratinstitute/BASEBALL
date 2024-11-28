@@ -19,7 +19,7 @@ const players = [
         bioLink: 'http://bratinstitute.com'},
     { no: 10, name: "Clyde Babee", pos: "RHP", year: "Freshman", ht: "5'11\"", wt: "0 lbs", hometown: "Houston, Texas", school: "Cy Ranch HS", bt: "R/R", image: "images/10 Clyde Babee.jpg",
         bioLink: 'http://bratinstitute.com'},
-    { no: 11, name: "Khal Valdez", pos: "RHP", year: "Sophomore", ht: "6'1\"", wt: "180 lbs", hometown: "Naples, Fla.", school: "Gulf Coast HS", bt: "R/R", image: "images/11 Khal Valdez.jpg",
+    { no: 11, name: "Khal Valdez", pos: "RHP", year: "Sophomore", ht: "6'1\"", wt: "180 lbs", hometown: "Naples, Fla.", school: "Gulf Coast HS", bt: "R/R", image: "images/11 Khal Valdez.png",
         bioLink: 'http://bratinstitute.com'},
     { no: 12, name: "Tressa Scar", pos: "OF", year: "Freshman", ht: "5'10\"", wt: "0 lbs", hometown: "San Marcos, Calif.", school: "San Marcos HS", bt: "R/R", image: "images/12 Tressa Scar.jpg",
         bioLink: 'http://bratinstitute.com'},
