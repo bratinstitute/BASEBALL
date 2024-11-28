@@ -15,7 +15,7 @@ const players = [
         bioLink: 'http://bratinstitute.com'},
     { no: 8, name: "Tatsunori Schmidt", pos: "UT", year: "Freshman", ht: "6'1\"", wt: "200 lbs", hometown: "Lexington, Mass.", school: "Minuteman Regional HS", bt: "L/L", image: "images/8 Tatsunori Schmidt.jpg",
         bioLink: 'http://bratinstitute.com'},
-    { no: 9, name: "Walker Mendez", pos: "INF", year: "Sophomore", ht: "6'3\"", wt: "205 lbs", hometown: "Wayne, N.J.", school: "Wayne Hills HS", bt: "L/R", image: "images/9 Walker Mendez.png",
+    { no: 9, name: "Walker Mendez", pos: "INF", year: "Sophomore", ht: "6'3\"", wt: "205 lbs", hometown: "Wayne, N.J.", school: "Wayne Hills HS", bt: "L/R", image: "images/9 Walker Mendez.jpg",
         bioLink: 'http://bratinstitute.com'},
     { no: 10, name: "Clyde Babee", pos: "RHP", year: "Freshman", ht: "5'11\"", wt: "0 lbs", hometown: "Houston, Texas", school: "Cy Ranch HS", bt: "R/R", image: "images/10 Clyde Babee.png",
         bioLink: 'http://bratinstitute.com'},
