@@ -23,7 +23,7 @@ const players = [
         bioLink: 'http://bratinstitute.com'},
     { no: 12, name: "Tressa Scar", pos: "OF", year: "Freshman", ht: "5'10\"", wt: "0 lbs", hometown: "San Marcos, Calif.", school: "San Marcos HS", bt: "R/R", image: "images/12 Tressa Scar.jpg",
         bioLink: 'http://bratinstitute.com'},
-    { no: 13, name: "Reese Witherspoon", pos: "RHP", year: "Sophomore", ht: "6'1\"", wt: "195 lbs", hometown: "San Antonio, Texas", school: "Warren HS", bt: "R/R", image: "images/13 Reese Witherspoon.jpg",
+    { no: 13, name: "Reese Witherspoon", pos: "RHP", year: "Sophomore", ht: "6'1\"", wt: "195 lbs", hometown: "San Antonio, Texas", school: "Warren HS", bt: "R/R", image: "images/13 Reese Witherspoon.png",
         bioLink: 'http://bratinstitute.com'},
     { no: 14, name: "RJ Zimbardo", pos: "C", year: "Freshman", ht: "5'10\"", wt: "180 lbs", hometown: "Fresno, Calif.", school: "Fresno HS", bt: "R/R", image: "images/14 RJ Zimbardo.jpg",
         bioLink: 'http://bratinstitute.com'},
