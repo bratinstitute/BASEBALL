@@ -13,7 +13,7 @@ const players = [
         bioLink: 'http://bratinstitute.com'},
     { no: 7, name: "Trey Favors", pos: "INF", year: "Freshman", ht: "5'10\"", wt: "175 lbs", hometown: "San Diego, Calif.", school: "St. Augustine HS", bt: "L/R", image: "images/7 Trey Favors.jpg",
         bioLink: 'http://bratinstitute.com'},
-    { no: 8, name: "Tatsunori Schmidt", pos: "UT", year: "Freshman", ht: "6'1\"", wt: "200 lbs", hometown: "Lexington, Mass.", school: "Minuteman Regional HS", bt: "L/L", image: "images/8 Tatsunori Schmidt.png",
+    { no: 8, name: "Tatsunori Schmidt", pos: "UT", year: "Freshman", ht: "6'1\"", wt: "200 lbs", hometown: "Lexington, Mass.", school: "Minuteman Regional HS", bt: "L/L", image: "images/8 Tatsunori Schmidt.jpg",
         bioLink: 'http://bratinstitute.com'},
     { no: 9, name: "Walker Mendez", pos: "INF", year: "Sophomore", ht: "6'3\"", wt: "205 lbs", hometown: "Wayne, N.J.", school: "Wayne Hills HS", bt: "L/R", image: "images/9 Walker Mendez.png",
         bioLink: 'http://bratinstitute.com'},
