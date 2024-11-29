@@ -29,7 +29,7 @@ const players = [
         bioLink: 'http://bratinstitute.com'},
     { no: 15, name: "Dalton Seeker", pos: "OF", year: "Junior", ht: "6'1\"", wt: "190 lbs", hometown: "Mooresville, Ind.", school: "Mooresville HS", bt: "L/L", image: "images/15 Dalton Seeker.png",
         bioLink: 'http://bratinstitute.com'},
-    { no: 16, name: "Dean Devine", pos: "LHP", year: "Junior", ht: "5'11\"", wt: "200 lbs", hometown: "Fort Smith, Ark.", school: "Northside HS", bt: "L/L", image: "images/16 Dean Devine.png",
+    { no: 16, name: "Dean Devine", pos: "LHP", year: "Junior", ht: "5'11\"", wt: "200 lbs", hometown: "Fort Smith, Ark.", school: "Northside HS", bt: "L/L", image: "images/16 Dean Devine.jpg",
         bioLink: 'http://bratinstitute.com'},
     { no: 17, name: "Griffin Kuntz", pos: "LHP", year: "Senior", ht: "6'1\"", wt: "190 lbs", hometown: "San Jose, Calif.", school: "Pioneer HS", bt: "L/L", image: "images/17 Griffin Kuntz.jpg",
         bioLink: 'http://bratinstitute.com'},
