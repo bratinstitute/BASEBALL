@@ -47,7 +47,7 @@ const players = [
         bioLink: 'http://bratinstitute.com'},
     { no: 24, name: "Jordan Mallory Jr.", pos: "OF", year: "Sophomore", ht: "6'2\"", wt: "200 lbs", hometown: "Bellaire, Texas", school: "Episcopal HS", bt: "L/R", image: "images/24 Jordan Mallory Jr.png",
         bioLink: 'http://bratinstitute.com'},
-    { no: 25, name: "Aaron Toole", pos: "RHP", year: "Freshman", ht: "5'11\"", wt: "170 lbs", hometown: "New York, N.Y.", school: "Poly Prep HS", bt: "R/R", image: "images/25 Aaron Toole.jpg",
+    { no: 25, name: "Aaron Toole", pos: "RHP", year: "Freshman", ht: "5'11\"", wt: "170 lbs", hometown: "New York, N.Y.", school: "Poly Prep HS", bt: "R/R", image: "images/25 Aaron Toole.png",
         bioLink: 'http://bratinstitute.com'},
     { no: 26, name: "Kellen Mercer", pos: "RHP", year: "Senior", ht: "6'2\"", wt: "205 lbs", hometown: "Narragansett, R.I.", school: "Narragansett HS", bt: "R/R", image: "images/26 Kellan Mercer.jpg",
         bioLink: 'http://bratinstitute.com'},
