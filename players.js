@@ -41,7 +41,7 @@ const players = [
         bioLink: 'http://bratinstitute.com'},
     { no: 21, name: "Carter	Sass", pos: "OF", year: "Freshman", ht: "6'1\"", wt: "180 lbs", hometown: "Suwanee, Ga.", school: "North Gwinnett HS", bt: "R/R", image: "images/21 Carter Sass.jpg",
         bioLink: 'http://bratinstitute.com'},
-    { no: 22, name: "Michael Vu", pos: "RHP", year: "Sophomore", ht: "6'2\"", wt: "180 lbs", hometown: "Las Vegas, Nev.", school: "Palo Verde HS", bt: "R/R", image: "images/22 Michael Vu.jpg",
+    { no: 22, name: "Michael Vu", pos: "RHP", year: "Sophomore", ht: "6'2\"", wt: "180 lbs", hometown: "Las Vegas, Nev.", school: "Palo Verde HS", bt: "R/R", image: "images/22 Michael Vu.png",
         bioLink: 'http://bratinstitute.com'},
     { no: 23, name: "Tyler Quinlan", pos: "OF", year: "Junior", ht: "6'3\"", wt: "215 lbs", hometown: "Keller, Texas", school: "Keller HS", bt: "L/L", image: "images/23 Tyler Quinlan.jpg",
         bioLink: 'http://bratinstitute.com'},
