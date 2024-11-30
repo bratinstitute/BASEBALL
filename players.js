@@ -49,7 +49,7 @@ const players = [
         bioLink: 'http://bratinstitute.com'},
     { no: 25, name: "Aaron Toole", pos: "RHP", year: "Freshman", ht: "5'11\"", wt: "170 lbs", hometown: "New York, N.Y.", school: "Poly Prep HS", bt: "R/R", image: "images/25 Aaron Toole.jpg",
         bioLink: 'http://bratinstitute.com'},
-    { no: 26, name: "Kellen Mercer", pos: "RHP", year: "Senior", ht: "6'2\"", wt: "205 lbs", hometown: "Narragansett, R.I.", school: "Narragansett HS", bt: "R/R", image: "images/26 Kellan Mercer.png",
+    { no: 26, name: "Kellen Mercer", pos: "RHP", year: "Senior", ht: "6'2\"", wt: "205 lbs", hometown: "Narragansett, R.I.", school: "Narragansett HS", bt: "R/R", image: "images/26 Kellan Mercer.jpg",
         bioLink: 'http://bratinstitute.com'},
     { no: 27, name: "Nick Driscoll", pos: "RHP", year: "Freshman", ht: "5'11\"", wt: "175 lbs", hometown: "Oakwood, Ohio", school: "Oakwood HS", bt: "R/R", image: "images/27 Nick Driscoll.png",
         bioLink: 'http://bratinstitute.com'},
