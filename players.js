@@ -35,7 +35,7 @@ const players = [
         bioLink: 'http://bratinstitute.com'},
     { no: 18, name: "Clayton Krauss", pos: "RHP", year: "Senior", ht: "6'5\"", wt: "225 lbs", hometown: "Fairfield, Conn.", school: "Fairfield Warde HS", bt: "R/R", image: "images/18 Clayton Krauss.jpg",
         bioLink: 'http://bratinstitute.com'},
-    { no: 19, name: "Blake Blanco", pos: "OF", year: "Sophomore", ht: "6'0\"", wt: "210 lbs", hometown: "Phoenix, Ariz.", school: "O'Connor HS", bt: "R/R", image: "images/19 Blake Blanco.png",
+    { no: 19, name: "Blake Blanco", pos: "OF", year: "Sophomore", ht: "6'0\"", wt: "210 lbs", hometown: "Phoenix, Ariz.", school: "O'Connor HS", bt: "R/R", image: "images/19 Blake Blanco.jpg",
         bioLink: 'http://bratinstitute.com'},
     { no: 20, name: "Yorks Font", pos: "OF", year: "Junior", ht: "6'0\"", wt: "0 lbs", hometown: "Corona, Calif.", school: "Corona HS", bt: "R/R", image: "images/20 Yorks Font.jpg",
         bioLink: 'http://bratinstitute.com'},
