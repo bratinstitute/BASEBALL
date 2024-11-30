@@ -53,7 +53,7 @@ const players = [
         bioLink: 'http://bratinstitute.com'},
     { no: 27, name: "Nick Driscoll", pos: "RHP", year: "Freshman", ht: "5'11\"", wt: "175 lbs", hometown: "Oakwood, Ohio", school: "Oakwood HS", bt: "R/R", image: "images/27 Nick Driscoll.png",
         bioLink: 'http://bratinstitute.com'},
-    { no: 28, name: "Kenneth Couture", pos: "LHP", year: "Freshman", ht: "6'6\"", wt: "185 lbs", hometown: "Brooklyn, N.Y.", school: "Jefferson HS", bt: "L/L", image: "images/28 Kenneth Couture.jpg",
+    { no: 28, name: "Kenneth Couture", pos: "LHP", year: "Freshman", ht: "6'6\"", wt: "185 lbs", hometown: "Brooklyn, N.Y.", school: "Jefferson HS", bt: "L/L", image: "images/28 Kenneth Couture.png",
         bioLink: 'http://bratinstitute.com'},
     { no: 29, name: "Niko Serrano", pos: "INF", year: "Junior", ht: "6'0\"", wt: "185 lbs", hometown: "Winston-Salem, N.C.", school: "Oak Grove HS", bt: "L/R", image: "images/29 Niko Serrano.jpg",
         bioLink: 'http://bratinstitute.com'},
