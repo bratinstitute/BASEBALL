@@ -31,7 +31,7 @@ const players = [
         bioLink: 'http://bratinstitute.com'},
     { no: 16, name: "Dean Devine", pos: "LHP", year: "Junior", ht: "5'11\"", wt: "200 lbs", hometown: "Fort Smith, Ark.", school: "Northside HS", bt: "L/L", image: "images/16 Dean Devine.jpg",
         bioLink: 'http://bratinstitute.com'},
-    { no: 17, name: "Griffin Kuntz", pos: "LHP", year: "Senior", ht: "6'1\"", wt: "190 lbs", hometown: "San Jose, Calif.", school: "Pioneer HS", bt: "L/L", image: "images/17 Griffin Kuntz.png",
+    { no: 17, name: "Griffin Kuntz", pos: "LHP", year: "Senior", ht: "6'1\"", wt: "190 lbs", hometown: "San Jose, Calif.", school: "Pioneer HS", bt: "L/L", image: "images/17 Griffin Kuntz.jpg",
         bioLink: 'http://bratinstitute.com'},
     { no: 18, name: "Clayton Krauss", pos: "RHP", year: "Senior", ht: "6'5\"", wt: "225 lbs", hometown: "Fairfield, Conn.", school: "Fairfield Warde HS", bt: "R/R", image: "images/18 Clayton Krauss.png",
         bioLink: 'http://bratinstitute.com'},
