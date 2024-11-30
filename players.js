@@ -65,7 +65,7 @@ const players = [
         bioLink: 'http://bratinstitute.com'},
     { no: 33, name: "Mitch Grinsell", pos: "C", year: "Senior", ht: "6'1\"", wt: "205 lbs", hometown: "Sugar Land, Texas", school: "Fort Bend Clements HS", bt: "R/R", image: "images/33 Mitch Grinsell.png",
         bioLink: 'http://bratinstitute.com'},
-    { no: 34, name: "Matt Pennington", pos: "INF", year: "Junior", ht: "6'2\"", wt: "210 lbs", hometown: "Rockaway, N.J.", school: "Morris Knolls HS", bt: "R/R", image: "images/34 Matt Pennington.jpg",
+    { no: 34, name: "Matt Pennington", pos: "INF", year: "Junior", ht: "6'2\"", wt: "210 lbs", hometown: "Rockaway, N.J.", school: "Morris Knolls HS", bt: "R/R", image: "images/34 Matt Pennington.png",
         bioLink: 'http://bratinstitute.com'},
     { no: 35, name: "Linzora Shatzman", pos: "LHP", year: "Sophomore", ht: "5'8\"", wt: "0 lbs", hometown: "Mason, Ohio", school: "Ursuline Academy", bt: "L/L", image: "images/35 Linzora Shatzman.jpg",
         bioLink: 'http://bratinstitute.com'},
