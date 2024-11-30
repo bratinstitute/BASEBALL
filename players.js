@@ -1,5 +1,5 @@
 const players = [
-    { no: 1, name: "Beau Alvarez", pos: "C", year: "Junior", ht: "6'2\"", wt: "210 lbs", hometown: "Redondo Beach, Calif.", school: "Redondo Union HS", bt: "R/R", image: "images/1 Beau Alvarez.png",
+    { no: 1, name: "Beau Alvarez", pos: "C", year: "Junior", ht: "6'2\"", wt: "210 lbs", hometown: "Redondo Beach, Calif.", school: "Redondo Union HS", bt: "R/R", image: "images/1 Beau Alvarez.jpg",
         bioLink: 'http://bratinstitute.com'},
     { no: 2, name: "Kyson Frost", pos: "OF", year: "Junior", ht: "6'0\"", wt: "185 lbs", hometown: "Atlanta, Ga.", school: "Marist HS", bt: "R/R", image: "images/2 Kyson Frost.png",
         bioLink: 'http://bratinstitute.com'},
