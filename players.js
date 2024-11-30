@@ -59,7 +59,7 @@ const players = [
         bioLink: 'http://bratinstitute.com'},
     { no: 30, name: "Kermit Grastan", pos: "UT", year: "Junior", ht: "6'1\"", wt: "0 lbs", hometown: "Brookline, Mass.", school: "Brookline HS", bt: "R/R", image: "images/30 Kermit Grastan.jpg",
         bioLink: 'http://bratinstitute.com'},
-    { no: 31, name: "Chris McCrystal", pos: "LHP", year: "Senior", ht: "6'3\"", wt: "215 lbs", hometown: "Golden, Colo.", school: "Golden HS", bt: "L/L", image: "images/31 Chris McCrystal.png",
+    { no: 31, name: "Chris McCrystal", pos: "LHP", year: "Senior", ht: "6'3\"", wt: "215 lbs", hometown: "Golden, Colo.", school: "Golden HS", bt: "L/L", image: "images/31 Chris McCrystal.jpg",
         bioLink: 'http://bratinstitute.com'},
     { no: 32, name: "Jurrangelo Kryszczuk", pos: "RHP", year: "Junior", ht: "6'5\"", wt: "220 lbs", hometown: "Gurnee, Ill.", school: "Warren Township HS", bt: "R/R", image: "images/32 Jurrangelo Kryszczuk.png",
         bioLink: 'http://bratinstitute.com'},
