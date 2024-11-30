@@ -25,7 +25,7 @@ const players = [
         bioLink: 'http://bratinstitute.com'},
     { no: 13, name: "Reese Witherspoon", pos: "RHP", year: "Sophomore", ht: "6'1\"", wt: "195 lbs", hometown: "San Antonio, Texas", school: "Warren HS", bt: "R/R", image: "images/13 Reese Witherspoon.jpg",
         bioLink: 'http://bratinstitute.com'},
-    { no: 14, name: "RJ Zimbardo", pos: "C", year: "Freshman", ht: "5'10\"", wt: "180 lbs", hometown: "Fresno, Calif.", school: "Fresno HS", bt: "R/R", image: "images/14 RJ Zimbardo.png",
+    { no: 14, name: "RJ Zimbardo", pos: "C", year: "Freshman", ht: "5'10\"", wt: "180 lbs", hometown: "Fresno, Calif.", school: "Fresno HS", bt: "R/R", image: "images/14 RJ Zimbardo.jpg",
         bioLink: 'http://bratinstitute.com'},
     { no: 15, name: "Dalton Seeker", pos: "OF", year: "Junior", ht: "6'1\"", wt: "190 lbs", hometown: "Mooresville, Ind.", school: "Mooresville HS", bt: "L/L", image: "images/15 Dalton Seeker.png",
         bioLink: 'http://bratinstitute.com'},
