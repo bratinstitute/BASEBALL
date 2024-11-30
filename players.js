@@ -9,7 +9,7 @@ const players = [
         bioLink: 'http://bratinstitute.com'},
     { no: 5, name: "KJ DeBarge", pos: "INF", year: "Junior", ht: "6'3\"", wt: "190 lbs", hometown: "Potomac, Md.", school: "Bullis HS", bt: "R/R", image: "images/5 KJ DeBarge.jpg",
         bioLink: 'http://bratinstitute.com'},
-    { no: 6, name: "Tanner Swain", pos: "INF", year: "Sophomore", ht: "6'5\"", wt: "240 lbs", hometown: "Syracuse, N.Y.", school: "Cicero-North Syracuse HS", bt: "R/R", image: "images/6 Tanner Swain.png",
+    { no: 6, name: "Tanner Swain", pos: "INF", year: "Sophomore", ht: "6'5\"", wt: "240 lbs", hometown: "Syracuse, N.Y.", school: "Cicero-North Syracuse HS", bt: "R/R", image: "images/6 Tanner Swain.jpg",
         bioLink: 'http://bratinstitute.com'},
     { no: 7, name: "Trey Favors", pos: "INF", year: "Freshman", ht: "5'10\"", wt: "175 lbs", hometown: "San Diego, Calif.", school: "St. Augustine HS", bt: "L/R", image: "images/7 Trey Favors.jpg",
         bioLink: 'http://bratinstitute.com'},
