@@ -69,7 +69,7 @@ const players = [
         bioLink: 'http://bratinstitute.com'},
     { no: 35, name: "Linzora Shatzman", pos: "LHP", year: "Sophomore", ht: "5'8\"", wt: "0 lbs", hometown: "Mason, Ohio", school: "Ursuline Academy", bt: "L/L", image: "images/35 Linzora Shatzman.jpg",
         bioLink: 'http://bratinstitute.com'},
-    { no: 36, name: "Dom Compton", pos: "RHP", year: "Junior", ht: "6'0\"", wt: "195 lbs", hometown: "Boca Raton, Fla.", school: "Boca Raton HS", bt: "R/R", image: "images/36 Dom Compton.png",
+    { no: 36, name: "Dom Compton", pos: "RHP", year: "Junior", ht: "6'0\"", wt: "195 lbs", hometown: "Boca Raton, Fla.", school: "Boca Raton HS", bt: "R/R", image: "images/36 Dom Compton.jpg",
         bioLink: 'http://bratinstitute.com'},
     { no: 37, name: "Melvin Carroule", pos: "C", year: "Junior", ht: "6'2\"", wt: "0 lbs", hometown: "Scottsdale, Ariz.", school: "Saguaro HS", bt: "R/R", image: "images/37 Melvin Carroule.jpg",
         bioLink: 'http://bratinstitute.com'},
