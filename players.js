@@ -61,7 +61,7 @@ const players = [
         bioLink: 'http://bratinstitute.com'},
     { no: 31, name: "Chris McCrystal", pos: "LHP", year: "Senior", ht: "6'3\"", wt: "215 lbs", hometown: "Golden, Colo.", school: "Golden HS", bt: "L/L", image: "images/31 Chris McCrystal.png",
         bioLink: 'http://bratinstitute.com'},
-    { no: 32, name: "Jurrangelo Kryszczuk", pos: "RHP", year: "Junior", ht: "6'5\"", wt: "220 lbs", hometown: "Gurnee, Ill.", school: "Warren Township HS", bt: "R/R", image: "images/32 Jurrangelo Kryszczuk.jpg",
+    { no: 32, name: "Jurrangelo Kryszczuk", pos: "RHP", year: "Junior", ht: "6'5\"", wt: "220 lbs", hometown: "Gurnee, Ill.", school: "Warren Township HS", bt: "R/R", image: "images/32 Jurrangelo Kryszczuk.png",
         bioLink: 'http://bratinstitute.com'},
     { no: 33, name: "Mitch Grinsell", pos: "C", year: "Senior", ht: "6'1\"", wt: "205 lbs", hometown: "Sugar Land, Texas", school: "Fort Bend Clements HS", bt: "R/R", image: "images/33 Mitch Grinsell.jpg",
         bioLink: 'http://bratinstitute.com'},
