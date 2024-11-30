@@ -73,7 +73,7 @@ const players = [
         bioLink: 'http://bratinstitute.com'},
     { no: 37, name: "Melvin Carroule", pos: "C", year: "Junior", ht: "6'2\"", wt: "0 lbs", hometown: "Scottsdale, Ariz.", school: "Saguaro HS", bt: "R/R", image: "images/37 Melvin Carroule.jpg",
         bioLink: 'http://bratinstitute.com'},
-    { no: 38, name: "Luke Pooser", pos: "LHP", year: "Sophomore", ht: "6'4\"", wt: "215 lbs", hometown: "Staten Island, N.Y.", school: "Tottenville HS", bt: "L/L", image: "images/38 Luke Pooser.jpg",
+    { no: 38, name: "Luke Pooser", pos: "LHP", year: "Sophomore", ht: "6'4\"", wt: "215 lbs", hometown: "Staten Island, N.Y.", school: "Tottenville HS", bt: "L/L", image: "images/38 Luke Pooser.png",
         bioLink: 'http://bratinstitute.com'},
     { no: 39, name: "Travis Desandro", pos: "1B", year: "Sophomore", ht: "6'3\"", wt: "190 lbs", hometown: "Oakland, Calif.", school: "Fremont HS", bt: "L/L", image: "images/39 Travis Desandro.jpg",
         bioLink: 'http://bratinstitute.com'},
