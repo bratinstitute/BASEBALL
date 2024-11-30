@@ -77,7 +77,7 @@ const players = [
         bioLink: 'http://bratinstitute.com'},
     { no: 39, name: "Travis Desandro", pos: "1B", year: "Sophomore", ht: "6'3\"", wt: "190 lbs", hometown: "Oakland, Calif.", school: "Fremont HS", bt: "L/L", image: "images/39 Travis Desandro.jpg",
         bioLink: 'http://bratinstitute.com'},
-    { no: 40, name: "Leighton D'Amato", pos: "INF", year: "Senior", ht: "6'1\"", wt: "210 lbs", hometown: "Austin, Texas", school: "Lake Travis HS", bt: "L/L", image: "images/40 Leighton D'Amato.jpg",
+    { no: 40, name: "Leighton D'Amato", pos: "INF", year: "Senior", ht: "6'1\"", wt: "210 lbs", hometown: "Austin, Texas", school: "Lake Travis HS", bt: "L/L", image: "images/40 Leighton D'Amato.png",
         bioLink: 'http://bratinstitute.com'},
     { no: 41, name: "Maina Dogsta", pos: "1B", year: "Senior", ht: "5'10\"", wt: "0 lbs", hometown: "Langley, B.C.", school: "Brookswood Secondary", bt: "L/L", image: "images/41 Maina Dogsta.jpg",
         bioLink: 'http://bratinstitute.com'},
