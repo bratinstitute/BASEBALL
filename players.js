@@ -55,7 +55,7 @@ const players = [
         bioLink: 'http://bratinstitute.com'},
     { no: 28, name: "Kenneth Couture", pos: "LHP", year: "Freshman", ht: "6'6\"", wt: "185 lbs", hometown: "Brooklyn, N.Y.", school: "Jefferson HS", bt: "L/L", image: "images/28 Kenneth Couture.jpg",
         bioLink: 'http://bratinstitute.com'},
-    { no: 29, name: "Niko Serrano", pos: "INF", year: "Junior", ht: "6'0\"", wt: "185 lbs", hometown: "Winston-Salem, N.C.", school: "Oak Grove HS", bt: "L/R", image: "images/29 Niko Serrano.png",
+    { no: 29, name: "Niko Serrano", pos: "INF", year: "Junior", ht: "6'0\"", wt: "185 lbs", hometown: "Winston-Salem, N.C.", school: "Oak Grove HS", bt: "L/R", image: "images/29 Niko Serrano.jpg",
         bioLink: 'http://bratinstitute.com'},
     { no: 30, name: "Kermit Grastan", pos: "UT", year: "Junior", ht: "6'1\"", wt: "0 lbs", hometown: "Brookline, Mass.", school: "Brookline HS", bt: "R/R", image: "images/30 Kermit Grastan.png",
         bioLink: 'http://bratinstitute.com'},
