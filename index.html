@@ -3,37 +3,47 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>PRATT BASEBALL</title>
-    <link rel="stylesheet" href="styles.css">
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #000000;
+            font-family: Futura;
+            text-align: center;
+        }
+        img {
+            width: 150px; /* Adjust size as needed */
+            height: auto;
+        }
+        p {
+            margin-top: 20px;
+            color: #555;
+            font-size: 1.2em;
+        }
+    </style>
 </head>
 <body>
-    <header>
-        <div>
-            <a href="https://prattbaseball.com"><img src="./images/logo.png" alt="logo" height="35px"></a>
-        </div>
-        <div class="menu">
-            <a href="https://www.prattbaseball.com/allstars"><img src="./images/allstars.png" alt="allstarlogo" height="13px"></a>
-            <a href="https://bratinstitute.com"><img src="./images/yellow.png" alt="bratlogo" height="13px"></a>
-        </div>
-    </header>
-    <div class="secondary-header">
-        <h2>2025 Men's Baseball Roster</h2>
-        <select id="viewSelect" onchange="changeView()">
-            <option value="list">List View</option>
-            <option value="grid" selected>Grid View</option>
-            <option value="cards">Cards View</option>
-        </select>
-    </div>
-    <section id="roster" class="list-view">
-    </section>
+    <script>
+        const renderSiteUrl = 'https://prattbaseball.com';
 
-    <footer>
-        <p>© 2025 Brat Institute</p>
-    </footer>
+        function checkSiteStatus() {
+            fetch(renderSiteUrl, { mode: 'no-cors' })
+                .then(response => {
+                    if (response.type === 'opaque' || response.ok) {
+                        window.location.href = renderSiteUrl;
+                    } else {
+                        throw new Error('Site not ready');
+                    }
+                })
+                .catch(() => {
+                    setTimeout(checkSiteStatus, 5000); // Retry every 5 seconds
+                });
+        }
 
-    <!-- Include the script that handles view rendering -->
-    <script src="players.js"></script>
-    <script src="script.js"></script>
+        checkSiteStatus();
+    </script>
 </body>
 </html>
